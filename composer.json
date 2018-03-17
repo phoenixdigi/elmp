@@ -1,0 +1,21 @@
+{
+    "name": "phoenixdigi/elmp",
+    "description": "EP",
+    "type": "library",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "PDVN Team",
+            "email": "contact@phoenixdigi.vn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6.9"
+    },
+    "autoload": {
+        "files": [
+            "elementor-pro.php"
+        ]
+    }
+}
