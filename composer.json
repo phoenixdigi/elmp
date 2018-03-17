@@ -1,12 +1,12 @@
 {
-    "name": "phoenixdigi/elmp",
-    "description": "EP",
+    "name": "phoenixdigi/pagebuilderpro",
+    "description": "",
     "type": "library",
     "license": "proprietary",
     "authors": [
         {
-            "name": "PDVN Team",
-            "email": "contact@phoenixdigi.vn"
+            "name": "ABC",
+            "email": "contact@abcxyz.com"
         }
     ],
     "minimum-stability": "dev",
